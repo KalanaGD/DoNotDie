@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Health
+  - Bullet
+  - Enemy1
+  - Enemy2
+  - Enemy
+  - AttackDistance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2674909381
+    locked: 0
+  - name: Player
+    uniqueID: 405530297
+    locked: 0
+  - name: PlayerProjectile
+    uniqueID: 2286376335
+    locked: 0
+  - name: Enemy1
+    uniqueID: 386810835
+    locked: 0
+  - name: Enemy2
+    uniqueID: 635369069
+    locked: 0
+  - name: Particles
+    uniqueID: 503944883
+    locked: 0
